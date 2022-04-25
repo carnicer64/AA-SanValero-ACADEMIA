@@ -21,11 +21,11 @@ AVISO: Es necesario descargar y ejecutar los archivos de la carpeta MySQL en la 
 -VISTA DETALLE DE DOS ENTIDADES / Completado /\
 -BUSQUEDAS DE DOS ENTIDADES /Completado /\
 -DAR DE BAJA / Completado /\
--DISEÑO BOOTSTRAP / Completado /\
+-DISEÑO BOOTSTRAP / Completado /
 
 -LOGIN DE USUARIOS / Completado /\
 -REPOSITORIO GITHUB / Completado /\ 
--FUNCIONALIDAD: MODIFICAR / Completado /\
+-FUNCIONALIDAD: MODIFICAR / Completado / \
 -FUNCIONALIDAD: JAVASCRIPT AJAX / Completado /\
 -TRABAJO CON TERCERA TABLA / Completado /\
 -ZONA PRIVADA DE USUARIO / Completado /\
