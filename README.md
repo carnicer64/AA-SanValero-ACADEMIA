@@ -17,18 +17,18 @@ AVISO: Es necesario descargar y ejecutar los archivos de la carpeta MySQL en la 
 
 --REQUISITOS DE LA AA DE PROGRAMACIÓN--
 
--DAR DE ALTA DOS ENTIDADES / Completado /
--VISTA DETALLE DE DOS ENTIDADES / Completado / 
--BUSQUEDAS DE DOS ENTIDADES /Completado /
--DAR DE BAJA / Completado /
--DISEÑO BOOTSTRAP / Completado /
+1. DAR DE ALTA DOS ENTIDADES / Completado 
+2. VISTA DETALLE DE DOS ENTIDADES / Completado  
+3. BUSQUEDAS DE DOS ENTIDADES /Completado 
+4. DAR DE BAJA / Completado 
+5. DISEÑO BOOTSTRAP / Completado 
 
--LOGIN DE USUARIOS / Completado /
--REPOSITORIO GITHUB / Completado / 
--FUNCIONALIDAD: MODIFICAR / Completado / 
--FUNCIONALIDAD: JAVASCRIPT AJAX / Completado / 
--TRABAJO CON TERCERA TABLA / Completado /
--ZONA PRIVADA DE USUARIO / Completado /
+6. LOGIN DE USUARIOS / Completado 
+7. REPOSITORIO GITHUB / Completado  
+8. FUNCIONALIDAD: MODIFICAR / Completado  
+9. FUNCIONALIDAD: JAVASCRIPT AJAX / Completado  
+10. TRABAJO CON TERCERA TABLA / Completado 
+11. ZONA PRIVADA DE USUARIO / Completado 
 
--PAGINACION / Incompleto /
--USO DE IMAGENES / Incompleto / 
+12. PAGINACION / Incompleto 
+13. USO DE IMAGENES / Incompleto  
