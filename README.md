@@ -24,7 +24,7 @@ AVISO: Es necesario descargar y ejecutar los archivos de la carpeta MySQL en la 
 -DISEÑO BOOTSTRAP / Completado /
 
 -LOGIN DE USUARIOS / Completado /\
--REPOSITORIO GITHUB / Completado /\ 
+-REPOSITORIO GITHUB / Completado / \ 
 -FUNCIONALIDAD: MODIFICAR / Completado / \
 -FUNCIONALIDAD: JAVASCRIPT AJAX / Completado /\
 -TRABAJO CON TERCERA TABLA / Completado /\
